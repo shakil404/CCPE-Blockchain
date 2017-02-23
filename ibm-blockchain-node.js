@@ -1,5 +1,4 @@
-//looking for the way
-{
+//looking for the way to connect
 	"folders":
 	[
 		{
